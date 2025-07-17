@@ -16,7 +16,7 @@ function Header() {
                 <div className='flex gap-2 items-center'>
                     <Link to={'/dashboard'}>
                         <Button variant="outline">Dashboard</Button>
-                    </Link>
+                    </Link> 
                     <UserButton />
                 </div> :
 
